@@ -10,6 +10,6 @@ module.exports = {
     website: 'https://68c7ea62b7f24e9692ecfdfa2aec07a4.codepen.website/#',
     github: 'https://github.com/nolwag',
     twitter: 'https://twitter.com/',
-    linkedin: 'https://ca.linkedin.com/'
+    linkedin: 'https://www.linkedin.com/in/nolan-wagner-928931103/'
   }
 };
